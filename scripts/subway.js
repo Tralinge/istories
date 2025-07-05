@@ -1,0 +1,5 @@
+window.getSubway = function () {
+    return {
+        
+    };
+};
