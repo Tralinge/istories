@@ -24,5 +24,5 @@
     { "city_origin": "深圳", "ticket_origin": "深圳站", "city_destination": "西安", "ticket_destination": "西安北站", "mode": "Train", "fare": "955", "time_departure": "0.388888888888889","time_arrival": "0.805555555555556" },
     { "city_origin": "深圳", "ticket_origin": "深圳宝安国际机场", "city_destination": "西安", "ticket_destination": "西安咸阳国际机场", "mode": "Flight", "fare": "340", "time_departure": "0.267361111111111","time_arrival": "0.378472222222222" },
     { "city_origin": "深圳", "ticket_origin": "深圳宝安国际机场", "city_destination": "西安", "ticket_destination": "西安咸阳国际机场", "mode": "Flight", "fare": "1859", "time_departure": "0.642361111111111","time_arrival": "0.753472222222222" },
-    { "city_origin": "深圳", "ticket_origin": "深圳宝安国际机场", "city_destination": "西安", "ticket_destination": "['西安', '咸', '阳', '国际', '机场']", "mode": "Flight", "fare": "2440", "time_departure": "0.628472222222222","time_arrival": "0.739583333333333" }
+    { "city_origin": "深圳", "ticket_origin": "深圳宝安国际机场", "city_destination": "西安", "ticket_destination": "西安咸阳国际机场", "mode": "Flight", "fare": "2440", "time_departure": "0.628472222222222","time_arrival": "0.739583333333333" }
 ]
