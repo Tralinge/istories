@@ -25,6 +25,7 @@
     { "city": "深圳", "line": "1", "station_final": "机场东", "station_current": "深大", "station_next": "桃园" },
     { "city": "深圳", "line": "1", "station_final": "机场东", "station_current": "桃园", "station_next": "前海湾" },
     { "city": "深圳", "line": "1", "station_final": "机场东", "station_current": "前海湾", "station_next": "宝安中心" },
+    { "city": "深圳", "line": "1", "station_final": "机场东", "station_current": "宝安中心", "station_next": "机场东" },
     { "city": "深圳", "line": "2", "station_final": "莲塘", "station_current": "赤湾", "station_next": "海上世界" },
     { "city": "深圳", "line": "2", "station_final": "莲塘", "station_current": "海上世界", "station_next": "后海" },
     { "city": "深圳", "line": "2", "station_final": "莲塘", "station_current": "后海", "station_next": "科苑" },
